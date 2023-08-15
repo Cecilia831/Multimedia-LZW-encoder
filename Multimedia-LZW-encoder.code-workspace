@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Multimedia-LZW-encoder",
+			"path": "."
+		},
+		{
+			"name": "build",
+			"path": "../../Multimedia/jpeg_multimedia_project-master/encoder/build"
+		},
+		{
+			"name": "lib",
+			"path": "../../Multimedia/jpeg_multimedia_project-master/encoder/lib"
+		},
+		{
+			"name": "src",
+			"path": "../../Multimedia/jpeg_multimedia_project-master/encoder/src"
+		},
+		{
+			"name": "tst",
+			"path": "../../Multimedia/jpeg_multimedia_project-master/encoder/tst"
+		}
+	],
+	"settings": {}
+}
